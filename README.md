@@ -500,10 +500,12 @@ We tested our website using DevTools Lighthouse feature, and got these results:
 
 #### Performance
 
-* We weren't happy with this score.
-* Unfortunately, this was brought down considerably by the 3D models we have included.
-* We decided to keep these in, as it forms a core part of the site.
-* In the future, we intend to work to make these as performant as possible.
+* We were happy with this score.
+* Our original score for this was 37 on desktop, due to the 3D models we have included.
+* We compressed the images and the 3D models to improve this score.
+* We were incredibly happy with the amount of improvement we were able to make here.
+* Unfortunately this score is still too low on mobile, although it has improved from 28. The 3D models are really affecting the performance on mobile.
+* We have plans to continue improving this in the future.
 
 #### Accessibility
 
