@@ -197,13 +197,12 @@ The section includes projects from fellow Code Institute Hackathonians. This is 
 
 #### Contact section
 
-* Our site has a contact form so that users can contact us with any questions they have.
-This section includes a responsive form which users can use to contact Bust IT with any inquries.
+Our site has a contact form so that users can contact us with any questions they have. This section includes a responsive form which users can use to contact Bust IT with any inquries.
 
-* This form uses emailJS to send a reliable form.
+The contact us form uses emailJS to send a reliable form.
 Once a user clicks the submit buttom, they recieve an alert indicating that the email was recieved successfully, or an error if there are delivery issues.
 
-EmailJs was the prefered mail service for Bust It as it is free, but also reliable. Once a user sends a message through the contact form, all their information is captured and recieved by Bust IT, this way Bust IT can tailor what information and resources to send to their users.
+EmailJs was the prefered email service for Bust It as it is free, but also reliable. Once a user sends a message through the contact form, all their information is captured and recieved by Bust IT, this way Bust IT can tailor what information and resources to send to their users.
 
 [Back to Top](#bust-it-cancer-without-borders)
 
